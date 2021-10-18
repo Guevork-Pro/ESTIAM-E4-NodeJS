@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "type": "car",
+    "brand": "Lambo",
+    "model": "Aventador",
+    "color": "Jaune",
+    "year": 2020
+  },
+  {
+    "id": 2,
+    "type": "bike",
+    "brand": "Estiam",
+    "model": "double",
+    "color": "red",
+    "year": 2010
+  }
+]
